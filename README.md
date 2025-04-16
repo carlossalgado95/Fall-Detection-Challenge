@@ -15,7 +15,6 @@ The dataset contains inertial sensor data (accelerometer and gyroscope) labeled 
 
 ## Feature Engineering
 - `acc_magnitude = sqrt(x² + y² + z²)`
-- (Optional) Window-level statistical features: mean, std, etc.
 
 ## Model
 A hybrid approach was adopted:
